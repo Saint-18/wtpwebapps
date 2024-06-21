@@ -86,5 +86,12 @@
 		</div>
 		<br>
 		
+		<div>
+			<form method = "post" >
+				<input type = "submit"  value = "Save"  name= "Save"/>
+			</form>
+		</div>
+		<br>
+		
 	</body>
 </html>
