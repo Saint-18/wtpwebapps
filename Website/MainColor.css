@@ -1,0 +1,29 @@
+body{
+	background-color: #18191c;
+}
+h1 {
+  color: #7d47c4;
+}
+p {
+  color: #c3c9db;
+}
+
+form {
+	background-color: #18191c;
+	color: #c3c9db;
+}
+
+.game-frame{
+	background-color: blue;
+} 
+
+canvas{
+	color: blue;
+}
+
+.progress{
+	color: red;
+}
+
+
+
